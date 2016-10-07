@@ -1,0 +1,6 @@
+`be_true` is deprecated. Use `be_truthy` (for Ruby's conditional semantics) or `be true` (for exact `== true` equality) instead. Called from /home/user/owner/src.seleIDE/DesktopTest.rb:35:in `block (2 levels) in <top (required)>'.
+
+If you need more of the backtrace for any of these deprecations to
+identify where to make the necessary changes, you can configure
+`config.raise_errors_for_deprecations!`, and it will turn the
+deprecation warnings into errors, giving you the full backtrace.
